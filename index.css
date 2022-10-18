@@ -1,0 +1,68 @@
+.lesson {
+    height: 2000px;
+}
+
+.back-end {
+    /* placeholder */
+    background: #fff;
+}
+
+.cloud {
+    /* placeholder */
+    background: #ffe;
+}
+
+.clusters {
+    /* placeholder */
+    background: #fef;
+}
+
+.containers {
+    /* placeholder */
+    background: #eff;
+}
+
+.ci-cd {
+    /* placeholder */
+    background: #fee;
+}
+
+.databases {
+    /* placeholder */
+    background: #eef;
+}
+
+.front-end {
+    /* placeholder */
+    background: #efe;
+}
+
+.governance {
+    /* placeholder */
+    background: #eee;
+}
+
+.messaging {
+    /* placeholder */
+    background: #ffd;
+}
+
+.monitoring {
+    /* placeholder */
+    background: #fdf;
+}
+
+.rules-engine {
+    /* placeholder */
+    background: #dff;
+}
+
+.testing {
+    /* placeholder */
+    background: #fdd;
+}
+
+.version-control {
+    /* placeholder */
+    background: #dfd;
+}
