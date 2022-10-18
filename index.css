@@ -1,3 +1,9 @@
+.list {
+    width: 60%;
+    background: ccc;
+    text-align: center;
+}
+
 .lesson {
     height: 2000px;
 }
