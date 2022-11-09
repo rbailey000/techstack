@@ -1,11 +1,14 @@
 .list {
     width: 60%;
-    background: ccc;
-    text-align: center;
+    background: #999;
+    margin: 0 auto;
+    padding-top: 0;
 }
 
 .lesson {
     height: 2000px;
+    padding-left:12px;
+
 }
 
 .back-end {
